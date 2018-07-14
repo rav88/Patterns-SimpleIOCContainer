@@ -1,0 +1,11 @@
+C:\Users\Rav\source\repos\DryIocUsageSample\DryIocUsageSample\bin\Debug\netcoreapp2.0\DryIocUsageSample.deps.json
+C:\Users\Rav\source\repos\DryIocUsageSample\DryIocUsageSample\bin\Debug\netcoreapp2.0\DryIocUsageSample.runtimeconfig.json
+C:\Users\Rav\source\repos\DryIocUsageSample\DryIocUsageSample\bin\Debug\netcoreapp2.0\DryIocUsageSample.runtimeconfig.dev.json
+C:\Users\Rav\source\repos\DryIocUsageSample\DryIocUsageSample\bin\Debug\netcoreapp2.0\DryIocUsageSample.dll
+C:\Users\Rav\source\repos\DryIocUsageSample\DryIocUsageSample\obj\Debug\netcoreapp2.0\DryIocUsageSample.csprojResolveAssemblyReference.cache
+C:\Users\Rav\source\repos\DryIocUsageSample\DryIocUsageSample\obj\Debug\netcoreapp2.0\DryIocUsageSample.csproj.CoreCompileInputs.cache
+C:\Users\Rav\source\repos\DryIocUsageSample\DryIocUsageSample\obj\Debug\netcoreapp2.0\DryIocUsageSample.AssemblyInfoInputs.cache
+C:\Users\Rav\source\repos\DryIocUsageSample\DryIocUsageSample\obj\Debug\netcoreapp2.0\DryIocUsageSample.AssemblyInfo.cs
+C:\Users\Rav\source\repos\DryIocUsageSample\DryIocUsageSample\bin\Debug\netcoreapp2.0\DryIocUsageSample.pdb
+C:\Users\Rav\source\repos\DryIocUsageSample\DryIocUsageSample\obj\Debug\netcoreapp2.0\DryIocUsageSample.dll
+C:\Users\Rav\source\repos\DryIocUsageSample\DryIocUsageSample\obj\Debug\netcoreapp2.0\DryIocUsageSample.pdb

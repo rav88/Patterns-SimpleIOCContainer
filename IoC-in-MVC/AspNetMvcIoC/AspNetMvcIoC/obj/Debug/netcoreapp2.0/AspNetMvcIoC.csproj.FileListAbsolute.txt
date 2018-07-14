@@ -1,0 +1,12 @@
+C:\Users\Rav\source\repos\AspNetMvcIoC\AspNetMvcIoC\bin\Debug\netcoreapp2.0\Logs.csv
+C:\Users\Rav\source\repos\AspNetMvcIoC\AspNetMvcIoC\bin\Debug\netcoreapp2.0\AspNetMvcIoC.deps.json
+C:\Users\Rav\source\repos\AspNetMvcIoC\AspNetMvcIoC\bin\Debug\netcoreapp2.0\AspNetMvcIoC.runtimeconfig.json
+C:\Users\Rav\source\repos\AspNetMvcIoC\AspNetMvcIoC\bin\Debug\netcoreapp2.0\AspNetMvcIoC.runtimeconfig.dev.json
+C:\Users\Rav\source\repos\AspNetMvcIoC\AspNetMvcIoC\bin\Debug\netcoreapp2.0\AspNetMvcIoC.dll
+C:\Users\Rav\source\repos\AspNetMvcIoC\AspNetMvcIoC\bin\Debug\netcoreapp2.0\AspNetMvcIoC.pdb
+C:\Users\Rav\source\repos\AspNetMvcIoC\AspNetMvcIoC\obj\Debug\netcoreapp2.0\AspNetMvcIoC.csprojResolveAssemblyReference.cache
+C:\Users\Rav\source\repos\AspNetMvcIoC\AspNetMvcIoC\obj\Debug\netcoreapp2.0\AspNetMvcIoC.csproj.CoreCompileInputs.cache
+C:\Users\Rav\source\repos\AspNetMvcIoC\AspNetMvcIoC\obj\Debug\netcoreapp2.0\AspNetMvcIoC.AssemblyInfoInputs.cache
+C:\Users\Rav\source\repos\AspNetMvcIoC\AspNetMvcIoC\obj\Debug\netcoreapp2.0\AspNetMvcIoC.AssemblyInfo.cs
+C:\Users\Rav\source\repos\AspNetMvcIoC\AspNetMvcIoC\obj\Debug\netcoreapp2.0\AspNetMvcIoC.dll
+C:\Users\Rav\source\repos\AspNetMvcIoC\AspNetMvcIoC\obj\Debug\netcoreapp2.0\AspNetMvcIoC.pdb
